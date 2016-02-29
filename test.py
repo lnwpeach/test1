@@ -1,3 +1,7 @@
-import calendar
-cal = calendar.month(2016,3)
-print cal
+x = 2./9.
+print x
+a = input('a : ')
+if a == x:
+    print 'true'
+else:
+    print 'false'
