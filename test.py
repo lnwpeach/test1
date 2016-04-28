@@ -10,7 +10,7 @@ print (time.strftime("%H:%M:%S"))
 x = (180+400)*150
 y = 180*150
 z = 600*150
-print (x,y,z)
+print (x,y,z,num1)
 a = 8
 b = 0
 for i in range(1,6):
