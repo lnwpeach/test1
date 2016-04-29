@@ -4,4 +4,5 @@ c = 3
 d = []
 for i in a:
     d.append(i)
+print (d)
 
